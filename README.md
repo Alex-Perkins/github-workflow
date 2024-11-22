@@ -1,4 +1,5 @@
 # Project name
+<<<<<<< HEAD
 
 There is nothing permanent, except change
 
@@ -132,3 +133,9 @@ https://github.com/scottydocs/README-template.md
 https://github.com/kefranabg/readme-md-generator
 
 https://github.com/tkshill
+=======
+To improve is to change
+There is nothing permanent, except change
+
+
+>>>>>>> master
